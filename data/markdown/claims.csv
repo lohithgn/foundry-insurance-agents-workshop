@@ -1,0 +1,12 @@
+claim_id,date_reported,policy_number,policy_type,claimant,loss_type,description,expected_outcome,expected_basis,deductible
+CLM-1001,2024-07-03,HOME-2024-00871,Homeowners,Daniel Okafor,Water damage,"Burst pipe under kitchen sink flooded floor and soaked lower cabinets overnight; floor warped, cabinets ruined",Covered,HOME 4.2 Water Damage (sudden & accidental),1000
+CLM-1002,2024-07-05,HOME-2024-00871,Homeowners,Maria Okafor,Storm/falling object,"Storm blew a tree branch through living room window; rain damaged carpet and sofa before window was covered",Covered,HOME 4.3 Falling Objects + 4.1 resulting interior,1000
+CLM-1003,2024-07-06,HOME-2024-00871,Homeowners,Daniel Okafor,Flood,"River overflowed after heavy rain; ~1 foot of water entered finished basement, damaging drywall, carpet, treadmill",Not covered,HOME 5.1 Flood excluded,
+CLM-1004,2024-07-08,HOME-2024-00871,Homeowners,Maria Okafor,Seepage,"Slow fitting drip under bathroom sink over ~2 months rotted cabinet and subfloor",Not covered,HOME 5.7 Continuous Seepage excluded,
+CLM-1005,2024-07-09,HOME-2024-00871,Homeowners,Daniel Okafor,Falling object (space),"Suspected small meteorite punched a hole in roof; attic dented and rain entered",Not addressed,HOME 4.3 terrestrial falling objects only; policy silent,
+CLM-1006,2024-07-10,HOME-2024-00871,Homeowners,Maria Okafor,Theft,"Break-in through back door while away; laptop, camera, jewelry stolen; police notified",Covered,HOME 4.5 Theft (police report required),1000
+CLM-1007,2024-07-11,HOME-2024-00871,Homeowners,Daniel Okafor,Hail,"Hailstorm dented roof, cracked two windows; ceiling water staining upstairs",Covered,HOME 4.1 Windstorm/Hail,1000
+CLM-1008,2024-07-12,AUTO-2024-03345,Auto,Priya Raman,Animal strike,"Hit a deer on county road; front bumper, hood, one headlight damaged; no injuries",Covered,AUTO 2.3 Comprehensive (animal strike),250
+CLM-1009,2024-07-13,AUTO-2024-03345,Auto,Priya Raman,Collision (rideshare),"Rear-ended another car while picking up a rideshare passenger; no rideshare endorsement on policy",Not covered,AUTO 3.1 commercial/ride-share use excluded,
+CLM-1010,2024-07-14,RENT-2024-01290,Renters,Thomas Becker,Water damage,"Upstairs unit pipe burst; water came through ceiling and ruined couch, rug, books",Covered,RENT 2.6 Sudden water discharge,500
+CLM-1011,2024-07-15,HOME-2024-00871,Homeowners,Daniel Okafor,Unknown,"Vague report: 'some damage at my house', no cause, date, or items specified",Needs more info,Insufficient detail to assess,

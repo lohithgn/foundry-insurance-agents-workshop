@@ -1,0 +1,6 @@
+# Secrets — never commit your real environment file
+.env
+
+# Build output (file-based apps still produce these on run)
+bin/
+obj/

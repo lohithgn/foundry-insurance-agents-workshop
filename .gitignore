@@ -1,0 +1,10 @@
+# Secrets — never commit your real environment file (copy .env.example to .env)
+.env
+
+# Build output (file-based .NET apps still produce these on run)
+bin/
+obj/
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db

@@ -1,0 +1,4 @@
+policy_number,policy_type,policyholder,address,coverage_summary,standard_deductible,key_endorsements
+HOME-2024-00871,Homeowners (HO-3),Daniel & Maria Okafor,"48 Birchwood Lane, Maplefield, ST 04421","Dwelling $420k; Contents $210k; Liability $300k",1000,Replacement Cost Contents
+AUTO-2024-03345,Personal Auto,Priya Raman,"1207 Cedar Court, Maplefield, ST 04421","Liability 100/300/50; Collision $500 ded; Comprehensive $250 ded",500,Rental Reimbursement; Roadside
+RENT-2024-01290,Renters (HO-4),Thomas Becker,"Apt 5B, 90 Harbor Street, Maplefield, ST 04421","Contents $40k; Liability $100k",500,None
