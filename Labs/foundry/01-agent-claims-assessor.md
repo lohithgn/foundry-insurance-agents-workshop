@@ -12,9 +12,9 @@
 
 1. From the top menu, select **Build**.
 2. Open the **Agents** tab.
-3. Select **+ New agent** (or **Create agent**).
+3. Select **+ New agent** > **Build an agent**.
 4. In **Name**, enter your tagged name: `<initials>-claims-assessor`.
-5. In **Model / Deployment**, select the shared chat model from Lab 00 (e.g. `gpt-4.1`).
+5. In **Model**, select the shared chat model from Lab 00 (e.g. `gpt-4.1`).
 6. Leave other settings at their defaults for now.
 
 ✅ **Checkpoint A:** A new agent named `<initials>-claims-assessor` exists and has a model assigned.
