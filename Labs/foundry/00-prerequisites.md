@@ -35,7 +35,7 @@ You build the agents and workflow; the platform is ready and waiting.
 
 ## 3. Confirm the model deployment
 
-1. From the top menu, open **Build**, then look for the **Models** / **Deployments** area.
+1. From the top menu, open **Build**, then look for the **Deployments** on the left hand navigation menu.
 2. Confirm there is a deployed chat model (the presenter will tell you its name, e.g. `gpt-4.1`).
 3. You don't need to create or change anything — just confirm it exists. You'll select it when creating each agent.
 
