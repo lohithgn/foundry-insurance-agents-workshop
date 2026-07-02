@@ -12,9 +12,9 @@
 
 1. From the top menu, select **Build**.
 2. Open the **Agents** tab.
-3. Select **+ New agent** (or **Create agent**).
+3. Select **+ New agent** > **Build an agent**.
 4. In **Name**, enter your tagged name: `<initials>-claims-assessor`.
-5. In **Model / Deployment**, select the shared chat model from Lab 00 (e.g. `gpt-4.1`).
+5. In **Model**, select the shared chat model from Lab 00 (e.g. `gpt-4.1`).
 6. Leave other settings at their defaults for now.
 
 ✅ **Checkpoint A:** A new agent named `<initials>-claims-assessor` exists and has a model assigned.
@@ -51,10 +51,10 @@ Be concise and factual.
 
 This is the "your data" moment. You ground the agent in your policy documents using the **File search** tool. Foundry uploads your files and builds a **vector store** (a managed search index) behind the scenes — you don't stand up any separate search service.
 
-1. In the agent's **Setup** pane, find the **Tools** section and select **Add** (**+ Add tool**).
+1. In the agent's **Playground** pane, find the **Tools** section and select **Add** (**+ Add tool**).
 2. From the tool list, choose **File search**.
 3. In the file search dialog, select **Upload files** (or **Select local files**) and pick the policy file **`HOME-2024-00871-homeowners`** from the workshop's `data/` folder — Markdown (`data/markdown/`) or PDF (`data/pdf/`) both work. You can also upload the auto and renters policies for richer exploration.
-4. The dialog creates a **vector store** for these files (accept the default name, or rename it). Confirm/**Add** to attach the tool.
+4. The dialog creates a **vector store** for these files (accept the default name, or rename it). Click **Attach** to attach the tool.
 5. Wait for processing to finish — the file status moves from *in progress* to **completed** and the file is listed under the File search tool.
 6. **Save** the agent.
 
